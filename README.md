@@ -7,8 +7,9 @@ This is my boilerplate for Three JS projects.
 - Clone or fork
 - Open terminal
 
-| Install dependencies             | `npm install`     |
+|                                  |                   |
 | -------------------------------- | ----------------- |
+| Install dependencies             | `npm install`     |
 | Run the development server       | `npm run dev`     |
 | Build app for production         | `npm run build`   |
 | Preview production optimized app | `npm run preview` |
