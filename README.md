@@ -1,6 +1,6 @@
 # Three JS Vite Boilerplate
 
-This is my boilerplate for Three JS projects.
+This is my boilerplate for Three JS projects with Typescript.
 
 ## Getting started
 
@@ -17,7 +17,7 @@ This is my boilerplate for Three JS projects.
 
 ## Includes
 
-- **Three.js**: JavaScript library built on top of WebGL
+- **Three.js**: JavaScript library for 3D scenes built on top of WebGL
 - **Vite**: Build tool and development server
 - **Vitest**: Vite-native testing framework
 
